@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<author name="Anoop Gupta" count="27"/>
+<author name="Kourosh Gharachorloo" count="15"/>
+<author name="David A. Patterson 0001" count="12"/>
+<author name="Jaswinder Pal Singh" count="11"/>
+<author name="Mark Horowitz" count="11"/>
+<author name="Thomas R. Gross" count="8"/>
+<author name="Mark A. Heinrich" count="8"/>
+<author name="Daniel Lenoski" count="8"/>
+<author name="James Laudon" count="8"/>
+<author name="Monica S. Lam" count="7"/>
+<author name="David Nakahira" count="6"/>
+<author name="Norman P. Jouppi" count="5"/>
+<author name="Steven A. Przybylski" count="5"/>
+<author name="David Ofelt" count="5"/>
+<author name="Richard Simoni" count="5"/>
+<author name="Truman Joe" count="5"/>
+<author name="Josep Torrellas" count="5"/>
+<author name="Chris Holt" count="4"/>
+<author name="Anant Agarwal" count="4"/>
+<author name="Aaron J. Goldberg" count="4"/>
+<author name="Peter Steenkiste" count="4"/>
+<author name="Christopher Rowen" count="4"/>
+<author name="Luis Stevens" count="3"/>
+<author name="Jeffrey Kuskin" count="3"/>
+<author name="John Heinlein" count="3"/>
+<author name="Joel Baxter" count="3"/>
+<author name="Mendel Rosenblum" count="3"/>
+<author name="Steven W. K. Tjiang" count="3"/>
+<author name="Fred C. Chow" count="3"/>
+<author name="Vivek Sarkar" count="3"/>
+<author name="Forest Baskett" count="3"/>
+<author name="John Gill" count="3"/>
+<author name="Mark D. Hill" count="2"/>
+<author name="Vijayaraghavan Soundararajan" count="2"/>
+<author name="Phillip B. Gibbons" count="2"/>
+<author name="John Chapin" count="2"/>
+<author name="Dror E. Maydan" count="2"/>
+<author name="Rohit Chandra" count="2"/>
+<author name="Mahadevan Ganapathi" count="2"/>
+<author name="Stephen R. Goldschmidt" count="2"/>
+<author name="Wolf-Dietrich Weber" count="2"/>
+<author name="Helen Davis" count="2"/>
+<author name="Richard B. Kieburtz" count="2"/>
+<author name="Jon Masters" count="1"/>
+<author name="Parthasarathy Ranganathan" count="1"/>
+<author name="Paul Turner" count="1"/>
+<author name="Onur Mutlu" count="1"/>
+<author name="Rich Belgard" count="1"/>
+<author name="Chris Rowen" count="1"/>
+<author name="Yale N. Patt" count="1"/>
+<author name="Wen-mei W. Hwu" count="1"/>
+<author name="Stephen W. Melvin" count="1"/>
+<author name="Michael Shebanow" count="1"/>
+<author name="Tse-Yu Yeh" count="1"/>
+<author name="Andy Wolfe" count="1"/>
+<author name="Mainak Chaudhuri" count="1"/>
+<author name="Edward Rothberg" count="1"/>
+<author name="Ben Verghese" count="1"/>
+<author name="Ken Kennedy" count="1"/>
+<author name="Charles F. Bender" count="1"/>
+<author name="John W. D. Connolly" count="1"/>
+<author name="Mary K. Vernon" count="1"/>
+<author name="Larry Smarr" count="1"/>
+<author name="Mark A. Horowitz" count="1"/>
+<author name="Radhika Thekkath" count="1"/>
+<author name="Amit Pal Singh" count="1"/>
+<author name="Susan John" count="1"/>
+<author name="Andrew Erlichson" count="1"/>
+<author name="Neal Nuckolls" count="1"/>
+<author name="Greg Chesson" count="1"/>
+<author name="Takashi Totsuka" count="1"/>
+<author name="Robert P. Wilson" count="1"/>
+<author name="Robert S. French" count="1"/>
+<author name="Christopher S. Wilson" count="1"/>
+<author name="Saman P. Amarasinghe" count="1"/>
+<author name="Jennifer-Ann M. Anderson" count="1"/>
+<author name="Shih-Wei Liao" count="1"/>
+<author name="Chau-Wen Tseng" count="1"/>
+<author name="Mary W. Hall" count="1"/>
+<author name="Steven Cameron Woo" count="1"/>
+<author name="Peter Schnorf" count="1"/>
+<author name="Sarita V. Adve" count="1"/>
+<author name="Todd C. Mowry" count="1"/>
+<author name="Michael E. Wolf" count="1"/>
+<author name="K. Pieper" count="1"/>
+<author name="Yigal Brandman" count="1"/>
+<author name="Alon Orlitsky" count="1"/>
+<author name="Monica Lam 0001" count="1"/>
+<author name="Thierry Weil" count="1"/>
+<author name="K. Gopinath" count="1"/>
+<author name="Scott McFarling" count="1"/>
+<author name="Charles N. Fischer" count="1"/>
+<author name="Hilding Elmquist" count="1"/>
+<author name="Noah Mendelsohn" count="1"/>
+<author name="Alex Strong" count="1"/>
+<author name="Judson S. Leonard" count="1"/>
+<author name="Richard W. Carr" count="1"/>
+<author name="Michael J. Flynn" count="1"/>
+<author name="P. Carmody" count="1"/>
+<author name="A. M. Barone" count="1"/>
+<author name="J. K. Morrell" count="1"/>
+<author name="A. Weiner" count="1"/>
